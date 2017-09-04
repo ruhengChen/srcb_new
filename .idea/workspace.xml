@@ -1,0 +1,1241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2a4c7d9b-82f0-4244-bb85-a98e3685333f" name="Default" comment="" />
+    <ignored path="CRH.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/CRH$PyodbcHelper.coverage" NAME="PyodbcHelper Coverage Results" MODIFIED="1497499139110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/db" />
+    <SUITE FILE_PATH="coverage/SRCB$run_main__1_.coverage" NAME="run_main (1) Coverage Results" MODIFIED="1498446664052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CRH$fetch_riskinfo.coverage" NAME="fetch_riskinfo Coverage Results" MODIFIED="1497949865984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SRCB$fetch_company__1_.coverage" NAME="fetch_company (1) Coverage Results" MODIFIED="1498436126748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/shangyuyun" />
+    <SUITE FILE_PATH="coverage/CRH$Validator.coverage" NAME="Validator Coverage Results" MODIFIED="1497235022112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/validator" />
+    <SUITE FILE_PATH="coverage/CRH$config.coverage" NAME="config Coverage Results" MODIFIED="1498093125429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CRH$fetch_companyInfo.coverage" NAME="fetch_companyInfo Coverage Results" MODIFIED="1498206025696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CRH$run_main.coverage" NAME="run_main Coverage Results" MODIFIED="1498208625485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SRCB$fetch_companyInfo__1_.coverage" NAME="fetch_companyInfo (1) Coverage Results" MODIFIED="1504054400228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CRH$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1498136569958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CRH$fetch_company.coverage" NAME="fetch_company Coverage Results" MODIFIED="1498207786278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CRH$Unittests_in_PyodbcHelper.coverage" NAME="Unittests in PyodbcHelper Coverage Results" MODIFIED="1497234546453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/db" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="CRH" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="dcdy_info.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/file/20170621_bak/dcdy_info.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fxmx_risk.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/file/20170621_bak/fxmx_risk.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fxzs_risk.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/file/20170621_bak/fxzs_risk.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ggxx_info.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/file/20170621_bak/ggxx_info.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jyyc_info.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/file/20170621_bak/jyyc_info.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sdq_info.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/file/20170621_bak/sdq_info.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="xkxx_info.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/file/20170621_bak/xkxx_info.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fetch_company.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/fetch_company.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="205">
+              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fetch_companyInfo.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fetch_companyInfo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="56" column="8" lean-forward="false" selection-start-line="56" selection-start-column="8" selection-end-line="56" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="23">
+              <caret line="63" column="35" lean-forward="false" selection-start-line="63" selection-start-column="35" selection-end-line="63" selection-end-column="35" />
+              <folding>
+                <element signature="e#141#154#0" expanded="true" />
+                <marker date="1498794464549" expanded="true" signature="1637:1988" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="2057:2412" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="2474:2815" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="2884:3224" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="3286:3662" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="3726:3839" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="3870:3976" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="4017:4119" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="4161:4268" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="4312:4424" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="4466:4567" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="4598:4709" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="4740:4854" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="4896:5016" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="5047:5161" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="5204:5277" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="5298:5373" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="5394:5466" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="5497:5564" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="5855:5927" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="6040:6128" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="6370:6458" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="7125:7323" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="8078:8180" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="8144:8158" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="9119:9227" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="9159:9224" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="9812:9952" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="9878:9949" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="9974:10024" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="11775:12010" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="14832:15067" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="18573:18808" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="21744:21979" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="29093:29289" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="30600:30673" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="30698:30773" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="30798:30869" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="30920:30986" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="31836:32032" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="33342:33415" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="33440:33515" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="33540:33611" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="33662:33728" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="34367:34412" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="34489:34534" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="34601:34646" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="35939:36070" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="36742:36938" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="38662:38858" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="40168:40241" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="40266:40341" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="40366:40437" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="40488:40554" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="40698:40829" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="41406:41602" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="42980:43111" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="43917:44113" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="45120:45307" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="47605:47684" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="47735:47808" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="47833:47908" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="48666:48681" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="48757:48893" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="48792:48892" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="48988:49204" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="49034:49204" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="49102:49203" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="49324:49465" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="49363:49464" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="50224:50256" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="51353:51549" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="52859:52932" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="52957:53032" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="53057:53128" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="53179:53245" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="53619:53750" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="54387:54583" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="55628:55815" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="57962:58041" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="58092:58165" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="58190:58265" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="59001:59016" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="59092:59228" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="59127:59227" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="59323:59539" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="59369:59539" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="59437:59538" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="59659:59800" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="59698:59799" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="60560:60592" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="61611:61807" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="63117:63190" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="63215:63290" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="63315:63386" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="63437:63503" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="64112:64248" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="66220:66550" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="66601:67072" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="67165:67277" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="67413:67494" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="67735:67816" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="68137:68213" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="71467:71536" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="71565:71628" ph="..." />
+                <marker date="1498794464549" expanded="true" signature="71657:71733" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/file20170614company.txt" />
+        <option value="$PROJECT_DIR$/file/20170614/company.txt" />
+        <option value="$PROJECT_DIR$/logs/20170614/fetch_company.log" />
+        <option value="$PROJECT_DIR$/logs/20170614/fetch_company_info.log" />
+        <option value="$PROJECT_DIR$/file/20170615/company.txt" />
+        <option value="$PROJECT_DIR$/logs/20170615/fetch_company.log" />
+        <option value="$PROJECT_DIR$/validator/Validator.py" />
+        <option value="$PROJECT_DIR$/file/20170620/risk_fxqygz_now.txt" />
+        <option value="$PROJECT_DIR$/logs/20170620/risk_info_path.log" />
+        <option value="$PROJECT_DIR$/file/20170620/risk_fxqyjs_ls.txt" />
+        <option value="$PROJECT_DIR$/file/20170620/risk_fxqyjs_now.txt" />
+        <option value="$PROJECT_DIR$/fetch_riskinfo.py" />
+        <option value="$PROJECT_DIR$/file/20170620/risk_fxqyts_now.txt" />
+        <option value="$PROJECT_DIR$/file/20170620/risk_fxqyts_ls.txt" />
+        <option value="$PROJECT_DIR$/file/20170621/fxmx_risk.txt" />
+        <option value="$PROJECT_DIR$/file/20170621/company_info.txt" />
+        <option value="$PROJECT_DIR$/file/20170621/pwqdy_info.txt" />
+        <option value="$PROJECT_DIR$/file/20170621/xkxx_info.txt" />
+        <option value="$PROJECT_DIR$/file/20170621/xzcf_info.txt" />
+        <option value="$PROJECT_DIR$/file/20170621/xybg_credit.txt" />
+        <option value="$PROJECT_DIR$/file/20170621/jyyc_info.txt" />
+        <option value="$PROJECT_DIR$/file/20170621/fxzs_risk.txt" />
+        <option value="$PROJECT_DIR$/file/20170621/ggxx_info.txt" />
+        <option value="$PROJECT_DIR$/file/20170621/cfxx_info.txt" />
+        <option value="$PROJECT_DIR$/file/20170621/bdcdy_info.txt" />
+        <option value="$PROJECT_DIR$/file/20170621/zbxx_info.txt" />
+        <option value="$PROJECT_DIR$/file/20170621/xyls_credit.txt" />
+        <option value="$PROJECT_DIR$/file/20170621/sdq_info.txt" />
+        <option value="$PROJECT_DIR$/file/20170621/yqqf_info.txt" />
+        <option value="$PROJECT_DIR$/logs/20170621/fetch_company_info.log" />
+        <option value="$PROJECT_DIR$/logs/20170621/fetch_company.log" />
+        <option value="$PROJECT_DIR$/file/20170621/company.txt" />
+        <option value="$PROJECT_DIR$/logs/20170622/fetch_company.log" />
+        <option value="$PROJECT_DIR$/file/20170622/company.txt" />
+        <option value="$PROJECT_DIR$/test1.py" />
+        <option value="$PROJECT_DIR$/file/20170623/company.txt" />
+        <option value="$PROJECT_DIR$/db/PyodbcHelper.py" />
+        <option value="$PROJECT_DIR$/fetch_company.py" />
+        <option value="$PROJECT_DIR$/util/login.py" />
+        <option value="$PROJECT_DIR$/fetch_riskInfo.py" />
+        <option value="$PROJECT_DIR$/run_main.py" />
+        <option value="$PROJECT_DIR$/config.py" />
+        <option value="$PROJECT_DIR$/util/login.py" />
+        <option value="$PROJECT_DIR$/shangyuyun/fetch_company.py" />
+        <option value="$PROJECT_DIR$/run_main.py" />
+        <option value="$PROJECT_DIR$/config.py" />
+        <option value="$PROJECT_DIR$/fetch_company.py" />
+        <option value="$PROJECT_DIR$/logs/20170626/fetch_company_info.log" />
+        <option value="$PROJECT_DIR$/fetch_companyInfo.py" />
+        <option value="$PROJECT_DIR$/fetch_companyInfo.py" />
+        <option value="$PROJECT_DIR$/test2.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="-8" />
+    <option name="width" value="1617" />
+    <option name="height" value="883" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SRCB" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SRCB" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="E:/python34/python3.exe" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\crh\Desktop\上虞农商行\SRCB" />
+      <recent name="C:\Users\crh\Desktop\上虞农商行\SRCB\shangyuyun" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\crh\Desktop\上虞农商行\CRH\logs\20170622" />
+      <recent name="C:\Users\crh\Desktop\上虞农商行\CRH\file\20170622" />
+      <recent name="C:\Users\crh\Desktop\上虞农商行\CRH\file\20170621" />
+      <recent name="C:\Users\crh\Desktop\上虞农商行\CRH\logs\20170621" />
+      <recent name="C:\Users\crh\Desktop\上虞农商行\CRH\file" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.fetch_companyInfo (1)">
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="CRH" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="CRH" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="CRH" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="CRH" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="CRH" />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="CRH" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="CRH" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="CRH" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="CRH" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="CRH" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration name="fetch_company (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/shangyuyun" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SRCB" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\crh\Desktop\上虞农商行\SRCB\fetch_company.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="fetch_company" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="CRH" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fetch_company.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="fetch_companyInfo (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SRCB" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fetch_companyInfo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="run_main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SRCB" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run_main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="run_main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="CRH" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run_main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.fetch_company" />
+      <item index="1" class="java.lang.String" itemvalue="Python.run_main" />
+      <item index="2" class="java.lang.String" itemvalue="Python.fetch_company (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Python.run_main (1)" />
+      <item index="4" class="java.lang.String" itemvalue="Python.fetch_companyInfo (1)" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.fetch_companyInfo (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Python.run_main (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Python.fetch_company (1)" />
+        <item index="3" class="java.lang.String" itemvalue="Python.run_main" />
+        <item index="4" class="java.lang.String" itemvalue="Python.fetch_company" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a4c7d9b-82f0-4244-bb85-a98e3685333f" name="Default" comment="" />
+      <created>1497231071700</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1497231071700</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_PyodbcHelper - 2017.06.12 at 10h 29m 10s.xml">
+      <configuration name="Unittests in PyodbcHelper" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="0" width="1617" height="883" extended-state="1" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26636422" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32580644" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32258064" sideWeight="0.5060698" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962447" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="14" y="235" width="1334" height="243" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33225808" sideWeight="0.4939302" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32580644" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="12" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/file/20170621/company.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="1269" column="0" lean-forward="false" selection-start-line="1269" selection-start-column="0" selection-end-line="1269" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/20170621/fetch_company_info.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="4" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/20170621/fetch_company_info_bak.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="1473" column="11" lean-forward="false" selection-start-line="1473" selection-start-column="2" selection-end-line="1473" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/zfyz.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/20170622/fetch_company_info.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file/20170622/company_bak2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/20170621/fetch_company.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="13226" column="0" lean-forward="false" selection-start-line="13226" selection-start-column="0" selection-end-line="13226" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/20170622/fetch_company_bak.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file/20170622/company.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/20170622/fetch_company.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/20170622/run_main.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file/20170622/company_bak.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="270" column="0" lean-forward="false" selection-start-line="270" selection-start-column="0" selection-end-line="270" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file/20170622/cfxx_info.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file/20170622/bdcdy_info.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file/20170622/fxmx_risk.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file/20170622/fxzs_risk.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file/20170622/risk_fxqygz_ls.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file/20170622/risk_fxqygz_now.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/20170623/fetch_company.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/20170623/fetch_company_info.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/20170623/run_main.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file/20170623/xybg_credit.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file/20170623/company.txt" />
+    <entry file="file://$PROJECT_DIR$/file/20170623/company_info.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/PyodbcHelper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="124" column="39" lean-forward="false" selection-start-line="124" selection-start-column="39" selection-end-line="124" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="264" column="0" lean-forward="false" selection-start-line="264" selection-start-column="0" selection-end-line="266" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/validator/Validator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1482">
+          <caret line="84" column="0" lean-forward="false" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/20170626/fetch_company_info.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164274">
+          <caret line="8646" column="0" lean-forward="false" selection-start-line="8646" selection-start-column="0" selection-end-line="8646" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1596">
+          <caret line="88" column="57" lean-forward="false" selection-start-line="88" selection-start-column="57" selection-end-line="88" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/20170626/risk_info.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="22" column="32" lean-forward="false" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fetch_riskInfo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="39" column="56" lean-forward="false" selection-start-line="39" selection-start-column="56" selection-end-line="39" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/20170626/fetch_company_info.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1305528">
+          <caret line="68712" column="0" lean-forward="false" selection-start-line="68712" selection-start-column="0" selection-end-line="68712" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file/20170621_bak/yqqf_info.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="5" lean-forward="false" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file/20170621/yqqf_info.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file/20170626/yqqf_info.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5507">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file/20170621_bak/bdcdy_info.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file/20170621_bak/cfxx_info.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file/20170621_bak/company_info.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file/20170621_bak/dcdy_info.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file/20170621_bak/fxmx_risk.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file/20170621_bak/fxzs_risk.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file/20170621_bak/ggxx_info.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file/20170621_bak/jyyc_info.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file/20170621_bak/sdq_info.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file/20170621_bak/xkxx_info.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test2" />
+    <entry file="file://$PROJECT_DIR$/test2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="63" column="35" lean-forward="false" selection-start-line="63" selection-start-column="35" selection-end-line="63" selection-end-column="35" />
+          <folding>
+            <element signature="e#141#154#0" expanded="true" />
+            <marker date="1498794464549" expanded="true" signature="1637:1988" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="2057:2412" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="2474:2815" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="2884:3224" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="3286:3662" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="3726:3839" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="3870:3976" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="4017:4119" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="4161:4268" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="4312:4424" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="4466:4567" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="4598:4709" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="4740:4854" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="4896:5016" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="5047:5161" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="5204:5277" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="5298:5373" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="5394:5466" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="5497:5564" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="5855:5927" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="6040:6128" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="6370:6458" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="7125:7323" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="8078:8180" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="8144:8158" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="9119:9227" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="9159:9224" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="9812:9952" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="9878:9949" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="9974:10024" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="11775:12010" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="14832:15067" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="18573:18808" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="21744:21979" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="29093:29289" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="30600:30673" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="30698:30773" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="30798:30869" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="30920:30986" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="31836:32032" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="33342:33415" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="33440:33515" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="33540:33611" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="33662:33728" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="34367:34412" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="34489:34534" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="34601:34646" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="35939:36070" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="36742:36938" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="38662:38858" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="40168:40241" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="40266:40341" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="40366:40437" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="40488:40554" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="40698:40829" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="41406:41602" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="42980:43111" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="43917:44113" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="45120:45307" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="47605:47684" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="47735:47808" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="47833:47908" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="48666:48681" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="48757:48893" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="48792:48892" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="48988:49204" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="49034:49204" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="49102:49203" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="49324:49465" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="49363:49464" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="50224:50256" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="51353:51549" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="52859:52932" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="52957:53032" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="53057:53128" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="53179:53245" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="53619:53750" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="54387:54583" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="55628:55815" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="57962:58041" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="58092:58165" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="58190:58265" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="59001:59016" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="59092:59228" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="59127:59227" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="59323:59539" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="59369:59539" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="59437:59538" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="59659:59800" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="59698:59799" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="60560:60592" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="61611:61807" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="63117:63190" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="63215:63290" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="63315:63386" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="63437:63503" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="64112:64248" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="66220:66550" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="66601:67072" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="67165:67277" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="67413:67494" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="67735:67816" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="68137:68213" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="71467:71536" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="71565:71628" ph="..." />
+            <marker date="1498794464549" expanded="true" signature="71657:71733" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fetch_companyInfo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="56" column="8" lean-forward="false" selection-start-line="56" selection-start-column="8" selection-end-line="56" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fetch_company.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

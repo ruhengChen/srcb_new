@@ -1,0 +1,2 @@
+INFO: 2017-06-28 09:34:37,925  now crawling 逾期或欠费信息 330682000000018 : 上虞市鑫鑫五金制品有限公司
+INFO: 2017-06-28 09:34:37,965  ['Traceback (most recent call last):\n', '  File "C:/Users/crh/Desktop/上虞农商行/SRCB/fetch_companyInfo.py", line 387, in fetch_info_yqqf\n    print(response.txt)\n', "AttributeError: 'Response' object has no attribute 'txt'\n"]
