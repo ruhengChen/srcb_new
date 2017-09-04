@@ -71,23 +71,23 @@ class FetchInfo():
     def fetch_all(self):
         result = self.company.select()
         for com in result:
-            # self.fetch_company(com)
-            # self.fetch_info_zbxx(com)
-            # self.fetch_info_ggxx(com)
-            # self.fetch_info_xkxx(com)
-            # self.fetch_info_xzcf(com)
+            self.fetch_company(com)
+            self.fetch_info_zbxx(com)
+            self.fetch_info_ggxx(com)
+            self.fetch_info_xkxx(com)
+            self.fetch_info_xzcf(com)
             self.fetch_info_yqqf(com)
-            # self.fetch_info_bdcdy(com)
-            # self.fetch_info_dcdy(com)
-            # self.fetch_info_pwqdy(com)
-            # self.fetch_info_cfxx(com)
-            # self.fetch_info_sdq(com)
-            # self.fetch_info_jyyc(com)
-            # self.fetch_credit_xybg(com)
-            # self.fetch_credit_xyls(com)
-            # self.fetch_risk_fxzs(com)
-            # self.fetch_risk_fxmx(com)
-            break
+            self.fetch_info_bdcdy(com)
+            self.fetch_info_dcdy(com)
+            self.fetch_info_pwqdy(com)
+            self.fetch_info_cfxx(com)
+            self.fetch_info_sdq(com)
+            self.fetch_info_jyyc(com)
+            self.fetch_credit_xybg(com)
+            self.fetch_credit_xyls(com)
+            self.fetch_risk_fxzs(com)
+            self.fetch_risk_fxmx(com)
+            
 
         return self._status
 
